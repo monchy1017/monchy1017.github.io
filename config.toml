@@ -19,11 +19,11 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
-  description = "Hugo + Bear = :heart:"
+  description = "Eight Suzuki"
   favicon = "/images/favicon.ico"
   images = ["images/share.png"]
 
-  title = "Hugo ʕ•ᴥ•ʔ Bear"
+  title = "Eight Suzuki Site"
 
 [params.header]
   showTitle = true
