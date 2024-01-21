@@ -1,6 +1,9 @@
 +++
 title = "About me"
 menu = "main"
+description = "Suzuki8 Site"
+favicon = "/images/favicon.ico"
+images = ["images/share.png"]
 +++
 
 # About me
