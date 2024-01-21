@@ -1,15 +1,17 @@
 baseURL = "https://eightsuzuki.github.io/"
 languageCode = 'en-us'
-title = "mysite"
+subtitle = "Exploring the World of Technology"
+title = "suzuki8 [Github](https://github.com/eightsuzuki)"
 theme = "hugo-bearblog"
 
 
-author = "Jane Doe"
-copyright = "Copyright © 2020, Jane Doe."
+author = "Eight Suzuki"
+copyright = "Copyright © 2020, EightSuzuki."
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
 
+# Generate "Bearblog"-like URLs !only!, see https://bearblog.dev/.
 disableKinds = ["taxonomy"]
 ignoreErrors = ["error-disable-taxonomy"]
 [permalinks]
@@ -17,19 +19,16 @@ ignoreErrors = ["error-disable-taxonomy"]
   tags = "/blog/:slug"
 
 [params]
+  description = "Hugo + Bear = :heart:"
+  favicon = "/images/favicon.ico"
   images = ["images/share.png"]
-  title = "Hugo ʕ•ᴥ•ʔ Bear"
-  mainSections = ["content/about", "blog"]
-  hideMadeWithLine = true
 
-[[params.social]]
-    name = "Twitter"
-    icon = "fab fa-twitter fa-2x"
-    weight = 2
-    url = "https://twitter.com/amuyikam/"
-    
-[[params.social]]
-    name = "Qiita"
-    icon = "fab fa-qiita fa-2x"
-    weight = 3
-    url = "https://qiita.com/amuyikam"
+  title = "Hugo ʕ•ᴥ•ʔ Bear"
+
+[params.header]
+  showTitle = true
+  showSubtitle = true
+  showDescription = true
+  showLogo = true
+  showNavigation = true
+  showSearchIcon = true

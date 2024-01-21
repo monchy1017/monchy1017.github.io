@@ -1,0 +1,7 @@
+/* static/css/custom.css に追加 */
+.profile-image {
+    border-radius: 50%; /* 50% で丸く表示 */
+    width: 100px; /* 画像の幅を適切なサイズに調整 */
+    height: 100px; /* 画像の高さを適切なサイズに調整 */
+  }
+  
