@@ -8,7 +8,7 @@ menu = "main"
 ## Programming Languages
 
 **Proficient in:** JavaScript / TypeScript / Python  
-**Familiar with:** C / PHP / Go / Swift / Java / Rust
+**Familiar with:** C / PHP / Go / Swift / Java / Rust  
 **Experience with:** Objective-C / R
 
 ## Tech
@@ -29,5 +29,5 @@ menu = "main"
 **Testing Framework:**
   Jest  
 
-# Illusutration App
+## Illusutration App
   Adobe Illustrator / Adobe Photoshop / ClipStudio
