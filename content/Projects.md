@@ -5,7 +5,7 @@ menu = "main"
 
 # Projects
 
-## Reactを使用したGraphQLのアプリ
+## Reactを使用したGraphQLを使用した歌詞アプリと認証
 (2023/12~2024/1)
 - **レポジトリー:**[GraphQL-with-React](https://github.com/eightsuzuki/GraphQL-with-React)
 - **目的:** GraphQLというクエリ言語およびAPIのためのランタイム環境について学ぶ。RESTとの違いを理解し、柔軟で効率的なクエリ言語の利用を目指す。
