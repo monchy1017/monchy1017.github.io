@@ -17,7 +17,7 @@ menu = "main"
 **Architecture:**
   Microservices  
 **Database:**
-  MySQL / PostgresQL / MongoDB  
+  MySQL / PostgresQL / MongoDB / fierebase 
 **Containerization & Orchestration:**
   Docker / Docker Compose / Kubernetes  
 **Version Control:**
