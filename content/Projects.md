@@ -15,7 +15,8 @@ menu = "main"
 
 ## マイクロサービスを採用したブログ Webアプリ
 (2023/10~2023/12)
-- **レポジトリー:** [Blog-using-Microservices-with-Node-JS-and-React](https://github.com/eightsuzuki/Blog-using-Microservices-with-Node-JS-and-React)
+- **レポジトリー:** [Ticketing-Service-Microservices-with-Node-JS-and-React
+Public](https://github.com/eightsuzuki/Ticketing-Service-Microservices-with-Node-JS-and-React)
 - **目的:** 大規模サービスを安定して提供する上で欠かせないマイクロサービスの概念を学び、非同期通信やサービスのカプセル化を体験することが目的。
 - **課題:** マイクロサービスに特有の課題である、サービスの分割方法やサービス間の通信手法などに取り組んでいます。
 - **解決策とプロセス:** AWS や GCP などの公式ドキュメントを参考にし、マイクロサービスの概念や設計方法を学習しました。これらのサービスで実際に使用されているサービス間通信の手法も参考にしました。
