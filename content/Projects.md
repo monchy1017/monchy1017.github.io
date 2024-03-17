@@ -13,7 +13,7 @@ menu = "main"
 - **解決策とプロセス:** GraphQLの基本的な使用方法を学ぶため、最初にGraphiQLで実際にjson-serverでqueryとmutationを実行しながら、データがやり取りされる仕組みを確認。
 - **結果:** GraphQLを実際に使用し、スキーマが中心的な役割を果たし、データの型や関連性を適切に設計。余分なデータの取得を避け、リソースの無駄をなくすことができることを確認。
 
-## マイクロサービスを採用したブログ Webアプリ
+## マイクロサービスを採用したTicketing Service Webアプリ
 (2023/10~2023/12)
 - **レポジトリー:** [Ticketing-Service-Microservices-with-Node-JS-and-React
 Public](https://github.com/eightsuzuki/Ticketing-Service-Microservices-with-Node-JS-and-React)
