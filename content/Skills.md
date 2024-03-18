@@ -7,8 +7,8 @@ menu = "main"
 
 ## Programming Languages
 
-**Proficient in:** JavaScript / TypeScript / Python  
-**Familiar with:** C / PHP / Go / Swift / Java / Rust  
+**Proficient in:** JavaScript / TypeScript / Python   
+**Familiar with:** C / PHP / Go / Swift / Java / Rust   
 **Experience with:** Objective-C / R
 
 ## Tech
