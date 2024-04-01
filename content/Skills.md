@@ -14,10 +14,12 @@ menu = "main"
 ## Tech
 **Framework:**
   Vue.js / React / Next.js / Express  
+**UI Framework:**
+  Tailwind CSS / Bootstrap / ChakuraUI / Ant Design / Material-UI / Heroicons
 **Architecture:**
   Microservices  
 **Database:**
-  MySQL / PostgresQL / MongoDB / fierebase 
+  MySQL / PostgresQL / MongoDB / fierebase  
 **Containerization & Orchestration:**
   Docker / Docker Compose / Kubernetes  
 **Version Control:**
@@ -29,5 +31,5 @@ menu = "main"
 **Testing Framework:**
   Jest  
 
-## Illusutration App
-  Adobe Illustrator / Adobe Photoshop / ClipStudio
+## Illusutration App / Desgin App
+  Adobe Illustrator / Adobe Photoshop / ClipStudio / Figma
