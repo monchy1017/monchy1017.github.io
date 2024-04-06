@@ -7,7 +7,7 @@ menu = "main"
 
 ## Reactを使用したGraphQLを使用した歌詞アプリと認証
 (2023/12~2024/1)
-- **レポジトリー:**[GraphQL-with-React](https://github.com/eightsuzuki/GraphQL-with-React)
+- **レポジトリー:** [Lyrics-app-with-GraphQL-and-React](https://github.com/eightsuzuki/Lyrics-app-with-GraphQL-and-React)
 - **目的:** GraphQLというクエリ言語およびAPIのためのランタイム環境について学ぶ。RESTとの違いを理解し、柔軟で効率的なクエリ言語の利用を目指す。
 - **課題:** RESTful APIはエンドポイントごとにデータを提供するため、使用しない過剰なデータも取得することで過剰な通信が発生。GraphQLを使用するのが初めてであった。
 - **解決策とプロセス:** GraphQLの基本的な使用方法を学ぶため、最初にGraphiQLで実際にjson-serverでqueryとmutationを実行しながら、データがやり取りされる仕組みを確認。
