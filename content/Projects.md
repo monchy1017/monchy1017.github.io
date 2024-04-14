@@ -7,7 +7,7 @@ menu = "main"
 
 ## Twitter Clone
 (2024/1~2024/3)
-- **レポジトリー:** [Twitter-Clone](https://github.com/eightsuzuki/Twitter-Clone/commits/main/)
+- **レポジトリー:** [Twitter-Clone](https://github.com/eightsuzuki/Twitter-Clone)
 - **目的:** 学習目的で Twitter の主要機能を実装し、Next.js、NextAuth.js、Firebaseなどのテクノロジーを使用して、自身の技術スキルを向上させることを目指す。
 - **課題:** Twitterの主要機能を含むクローンを開発するために、ユーザー認証、投稿の作成と管理、コメントやいいねの機能など、複雑な機能を統合する必要性。
 - **解決策とプロセス:** NextAuth.jsを導入し、Firebaseを使用してGoogleアカウントでの認証を実装。Firebaseをデータベースとして使用し、投稿、コメント、およびいいねのデータを保存し、リアルタイムのデータ更新を可能に。Tailwind CSSを使用してレスポンシブなデザインを実装し、様々なデバイスや画面サイズに対応。
