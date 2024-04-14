@@ -5,6 +5,14 @@ menu = "main"
 
 # Projects
 
+## Twitter Clone
+(2024/1~2024/3)
+- **レポジトリー:** [Twitter-Clone](https://github.com/eightsuzuki/Twitter-Clone/commits/main/)
+- **目的:** 学習目的で Twitter の主要機能を実装し、Next.js、NextAuth.js、Firebaseなどのテクノロジーを使用して、自身の技術スキルを向上させることを目指す。
+- **課題:** Twitterの主要機能を含むクローンを開発するために、ユーザー認証、投稿の作成と管理、コメントやいいねの機能など、複雑な機能を統合する必要性。
+- **解決策とプロセス:** NextAuth.jsを導入し、Firebaseを使用してGoogleアカウントでの認証を実装。Firebaseをデータベースとして使用し、投稿、コメント、およびいいねのデータを保存し、リアルタイムのデータ更新を可能に。Tailwind CSSを使用してレスポンシブなデザインを実装し、様々なデバイスや画面サイズに対応。
+- **結果:** Twitterの主要機能を含むクローンを成功裏に実装し、ユーザーは投稿の作成、削除、コメント、いいねなどのアクションを実行できるようになった。サインインページでは、Googleアカウントを使用して認証できるようになり、セキュリティと利便性が向上。
+
 ## Reactを使用したGraphQLを使用した歌詞アプリと認証
 (2023/12~2024/1)
 - **レポジトリー:** [Lyrics-app-with-GraphQL-and-React](https://github.com/eightsuzuki/Lyrics-app-with-GraphQL-and-React)
