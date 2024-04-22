@@ -13,7 +13,7 @@ menu = "main"
 - **解決策とプロセス:** NextAuth.jsを導入し、Firebaseを使用してGoogleアカウントでの認証を実装。Firebaseをデータベースとして使用し、投稿、コメント、およびいいねのデータを保存し、リアルタイムのデータ更新を可能に。Tailwind CSSを使用してレスポンシブなデザインを実装し、様々なデバイスや画面サイズに対応。
 - **結果:** Twitterの主要機能を含むクローンを成功裏に実装し、ユーザーは投稿の作成、削除、コメント、いいねなどのアクションを実行できるようになった。サインインページでは、Googleアカウントを使用して認証できるようになり、セキュリティと利便性が向上。
 
-## Reactを使用したGraphQLを使用した歌詞アプリと認証
+## Reactを使用したGraphQLを使用した歌詞アプリ
 (2023/12~2024/1)
 - **レポジトリー:** [Lyrics-app-with-GraphQL-and-React](https://github.com/eightsuzuki/Lyrics-app-with-GraphQL-and-React)
 - **目的:** GraphQLというクエリ言語およびAPIのためのランタイム環境について学ぶ。RESTとの違いを理解し、柔軟で効率的なクエリ言語の利用を目指す。
@@ -46,6 +46,17 @@ Public](https://github.com/eightsuzuki/Ticketing-Service-Microservices-with-Node
 - **解決策とプロセス:** JSの専門書「You Don't Know JS」を読み知識不足を解消。Jestは公式サイトのチュートリアルを読みながら学習。
 - **結果:** useStateやレンダリングの仕組みについて理解し、実際に実装。Jestを使用したテストの書き方についても学習。
 
-## XEBECインターン
+
+# インターン
+## XEBEC
 (2022/1~now)
 - **業務内容:** XEBECというバリ取りブラシ世界シェアNo1の会社で、Webデザインも含むデザイン関連全般のインターンとして働いています。
+
+# ハッカソン
+## TaskHub
+(2024/3/15-2024/3/24)
+- **レポジトリー:** [TaskHub](https://github.com/eightsuzuki/Task_Management_App_Using_ReactNative)
+- **目的:** ハッカソンに参加し、新しい技術に触りたいと思いreact-nativeでiosアプリを開発。
+- **課題:** expo-goでの開発環境構築が初めてであり、環境構築が課題であった。classNameなどのCSSセレクターの使用不可。異なる解像度でのレイアウトへの適応。
+- **解決策とプロセス:** expo-goの公式ドキュメントを参考に環境構築を行なった。CSSセレクターの代わりにStyleSheet Componentでのスタイリングを行なった。pxではなくdp、dip、ptを使用し異なる解像度でのレイアウトへの適応した。
+- **結果:** ハッカソンで開発したiosアプリを公開できた。また、react-nativeの使い方を学んだ。

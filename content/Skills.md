@@ -15,7 +15,7 @@ menu = "main"
 **Framework:**
   Vue.js / React / Next.js / Express  
 **UI Framework:**
-  Tailwind CSS / Bootstrap / ChakuraUI / Ant Design / Material-UI / Heroicons
+  Tailwind CSS / Bootstrap / ChakuraUI / Ant Design / Material-UI / Heroicons  
 **Architecture:**
   Microservices  
 **Database:**
