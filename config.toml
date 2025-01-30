@@ -1,4 +1,4 @@
-baseURL = "https://eightsuzuki.github.io/"
+baseURL = "https://monchy1017.github.io/"
 languageCode = 'en-us'
 subtitle = "Exploring the World of Technology"
 title = "suzuki8"
@@ -6,7 +6,7 @@ theme = "hugo-bearblog"
 
 
 author = "Eight Suzuki"
-copyright = "Copyright © 2020, EightSuzuki."
+copyright = "Copyright © 2020, monchy1017."
 
 # Generate a nice robots.txt for SEO
 enableRobotsTXT = true
