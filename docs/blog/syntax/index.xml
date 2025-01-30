@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>syntax on suzuki8</title>
+    <title>Syntax on suzuki8</title>
     <link>https://eightsuzuki.github.io/blog/syntax/</link>
-    <description>Recent content in syntax on suzuki8</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <description>Recent content in Syntax on suzuki8</description>
+    <generator>Hugo</generator>
     <language>en-us</language>
     <copyright>Copyright © 2020, EightSuzuki.</copyright>
     <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate>
